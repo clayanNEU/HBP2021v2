@@ -10,6 +10,11 @@
       "StackName": "amplify-nufriends-devfriends-22842",
       "StackId": "arn:aws:cloudformation:us-east-1:327938247276:stack/amplify-nufriends-devfriends-22842/6e1737d0-7416-11eb-bcbf-0e4c53e0aefd",
       "AmplifyAppId": "d98noo1t2mtfa"
+    },
+    "categories": {
+      "auth": {
+        "nufriendsebf4e822": {}
+      }
     }
   }
 }
